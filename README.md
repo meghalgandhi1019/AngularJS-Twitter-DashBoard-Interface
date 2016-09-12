@@ -1,11 +1,10 @@
-# Skimddit-A-Clone-of-Reddit: Version 3: REST
-This project named "Skmmitdit" is clone of popular website "Reddit". That allows users to add new link to the his own DashBoard. 
-Even people can like OR dislike the links. Project had been developed on mainly J2EE concepts: JSP, Servlets, Maven and Eclipse IDE as well.
+# AngularJs Twiiter DashBoard
+This small assignment shows how Twitter dashboard can be made with Angular Js 2.
 
-1) Assignment1-CPSC 476.pdf that demonstrates required functionalitis by screenshots.. That you can refer.
+It shows the dummy tweets with an dummy users and their details to demonstrate the concepts of Angular like: Component, Input property, Services, ngFor, templates etc.
 
-2) Graphics folder has all the graphics media, I have used for this project.
+1) app: this folder has all actual code files that was written MS Visual Code.
 
-3) pom.xml: I seperated it down. So it gives better view of what API libraries are used by this project
+2) node_modules: As it name suggests, It has node modules used by this project.
 
-4) Skimmitdit_Maven: This folder contains actual coding stuff which was built on Eclipse IDE. 
+3) package.config: It has all the package information and their version details. 
