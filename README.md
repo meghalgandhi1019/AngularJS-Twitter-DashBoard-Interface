@@ -1,4 +1,4 @@
-# AngularJs Twiiter DashBoard
+# AngularJs Twitter DashBoard
 This small assignment shows how Twitter dashboard can be made with Angular Js 2.
 
 It shows the dummy tweets with an dummy users and their details to demonstrate the concepts of Angular like: Component, Input property, Services, ngFor, templates etc.
